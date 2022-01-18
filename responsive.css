@@ -1,0 +1,37 @@
+@media only screen and (max-width:1200px){
+    .container {
+        width: 90%;
+    }
+    .navigation-menu>nav>ul>li>a {
+        margin-right: 20px;
+    }
+    .heade-left-area h1 {
+        font-size: 38px;
+        margin-bottom: 28px;
+    }
+    .heade-left-area {
+        width: 50%;
+        margin-top: 0;
+    }
+    .about-right {
+        padding-top: 0px;
+    }
+    .about-right h2 {
+        font-size: 32px;
+        margin-bottom: 36px;
+        font-weight: 600;
+    }
+    .client-img {
+        padding: 20px;
+    }
+}
+
+@media only screen and (max-width:992px){
+    
+}
+@media only screen and (max-width:768px){
+    
+}
+@media only screen and (max-width:576px){
+    
+}
